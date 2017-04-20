@@ -3,15 +3,32 @@
 <head>
     <!-- javascript file import -->
     <script src="lib/jquery/jquery-3.2.1.min.js"></script>
-    <script src="common/js/script.js"></script>
+    <script src="common/js/googleMaps.js"></script>
+    <script src="common/js/common.js"></script>
 
     <!-- css file import -->
+    <link rel="stylesheet" type="text/css" href="common/css/commons.css">
     <link rel="stylesheet" type="text/css" href="common/css/company.css">
 
 </head>
 <body>
+
+    <!----------------- 네비게이션 바 --------------------->
+
+    <div class="header">
+        <ul>
+            <li class="title"><a href="#home">HOMI</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+            <li><a href="./careers.html">Careers</a></li>
+            <li><a href="./work.html">Work</a></li>
+            <li><a href="./company.html">Company</a></li>
+        </ul>
+    </div>
+
+    <!----------------- 내용 --------------------->
+
     <div id="wrap">
-        <div class="company-page-stack-1">
+        <div id="company-page-stack-1">
             <div class="background"></div>
             <div class="background-opacity"></div>
             <div class="text-wrap">
@@ -30,7 +47,7 @@
             </div>
         </div>
 
-        <div class="company-page-stack-2">
+        <div id="company-page-stack-2">
             <div class="text-wrap">
                 <div class="text-1">
                     <span>Game Services</span>
@@ -58,12 +75,12 @@
                 </div>
             </div>
             <div class="phone-wrap">
-                <img class="phone-1" src="common/img/company/ailu.jpg" />
-                <img class="phone-2" src="common/img/company/shooting_festa.jpg" />
+                <img class="phone-1" src="common/img/company/ailu.png" />
+                <img class="phone-2" src="common/img/company/shooting_festa.png" />
             </div>
         </div>
 
-        <div class="company-page-stack-3">
+        <div id="company-page-stack-3">
             <div class="background"></div>
             <div class="text-wrap">
                 <div class="text-1">
@@ -92,14 +109,14 @@
                 </div>
             </div>
             <div class="phone-wrap">
-                <img class="phone-1"src="common/img/company/bustalk1.jpg" />
-                <img class="phone-2" src="common/img/company/bustalk2.jpg" />
+                <img class="phone-1"src="common/img/company/bustalk1.png" />
+                <img class="phone-2" src="common/img/company/bustalk2.png" />
             </div>
         </div>
 
-        <div class="company-page-stack-4">
-            <video poster="common/img/video/4drider_bg.jpg" class="background-video" playsinline autoplay muted loop>
-                <source src="common/img/video/4drider.mp4" type="video/mp4">
+        <div id="company-page-stack-4">
+            <video poster="./common/img/video/4drider_bg.jpg" class="background-video" playsinline autoplay muted loop>
+                <source src="./common/img/video/4drider.mp4" type="video/mp4">
             </video>
             <div class="background-opacity"></div>
             <div class="text-wrap">
@@ -121,7 +138,7 @@
             </div>
         </div>
 
-        <div class="company-page-stack-5">
+        <div id="company-page-stack-5">
             <div class="background"></div>
             <div class="text-wrap">
                 <div class="text-1">
@@ -130,7 +147,7 @@
             </div>
         </div>
 
-        <div class="company-page-stack-6">
+        <div id="company-page-stack-6">
             <div class="text-wrap-1">
                 <div class="text-1">
                     <span>We want to have</span>
@@ -208,7 +225,7 @@
             </div>
         </div>
 
-        <div class="company-page-stack-7">
+        <div id="company-page-stack-7">
             <div class="background"></div>
             <div class="background-opacity"></div>
             <div class="text-wrap">
