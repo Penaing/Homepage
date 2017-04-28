@@ -1,16 +1,18 @@
 html, body {
     height:100%;
+    margin: 0;
     /*overflow:hidden;*/
 }
 #wrapper
 {
-    margin-top:120px;
+    width: auto;
+    min-width: 100%;
     height:100%;
 }
 #wrapper >.contact_page_stack1
 {
     position: relative;
-    width: 100%;
+    width: auto;
     height:100%;
 }
 #wrapper >.contact_page_stack1 > img
@@ -62,21 +64,23 @@ html, body {
 .contact_page_stack_2 {
     position: relative;
     font-family: "Plantagenet Cherokee";
-    width:98%;
-    height: 80%;
+    width:100%;
+    height: 500px;
+    float : left;
     background-color: #ffffff;
-    margin: 50px 0 50px 20px ;
 }
 .contact_page_stack_2 > .title {
     color: #000000;
     font-size: 65px;
     letter-spacing: 5px;
-    padding: 50px 0px 0px 170px;
+    padding: 50px 0px 0px 50px;
 }
 
 .gm-style-iw
 {
-    width: 300px !important;
+    position: absolute;
+    width: 80% !important;
+    height:300px;
     top: 15px !important; // move the infowindow 15px down
 left: 0 !important;
     background-color: #fff;
@@ -86,9 +90,10 @@ left: 0 !important;
 }
 
 .contact_page_stack_2 > .googleMap {
-    width: 30%;
-    margin:30px 0px 0px 170px;
-    height:63%;
+    position:absolute;
+    width: 40%;
+    margin:30px 0px 0px 50px;
+    height:500px;
     border: 1px solid black;
 }
 
@@ -113,8 +118,9 @@ left: 0 !important;
 .contact_page_stack_2 > .office_info
 {
     position:absolute;
-    left:1050px;
-    top:105px;
+    left: 0;
+    margin-left: 53%;
+    margin-top: -10px;
 }
 .contact_page_stack_2 > .office_info > .telnum > .title
 {
@@ -127,15 +133,17 @@ left: 0 !important;
 .contact_page_stack_2 > .office_info > .telnum > .number
 {
     font-family: DINAlternate;
+    width:550px;
     font-size: 40px;
     font-weight: bold;
     letter-spacing: 8px;
     margin-top:20px;
-    padding-top:20px;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 20px;
     color: #ffffff;
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.3);
-    width: 600px;
     height: 70px;
     text-align: center;
 }
@@ -155,15 +163,17 @@ left: 0 !important;
 .contact_page_stack_2 > .office_info > .faxnum > .number
 {
     font-family: DINAlternate;
+    width:550px;
     font-size: 40px;
     font-weight: bold;
     letter-spacing: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
     margin-top:20px;
     padding-top:20px;
     color: #ffffff;
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.3);
-    width: 600px;
     height: 70px;
     text-align: center;
 }
@@ -182,15 +192,17 @@ left: 0 !important;
 .contact_page_stack_2 > .office_info > .email > .address
 {
     font-family: DINAlternate;
-    font-size: 30px;
+    width:550px;
+    font-size: 35px;
     font-weight: bold;
     letter-spacing: 8px;
     margin-top:20px;
-    padding-top:30px;
+    padding-top:20px;
+    padding-left: 20px;
+    padding-right: 20px;
     color: #ffffff;
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.3);
-    width: 600px;
     height: 70px;
     text-align: center;
 }
@@ -199,6 +211,7 @@ left: 0 !important;
 /* ******************************************** */
 
 .work_page_stack_3 {
+    margin-top: 300px;
     position: relative;
     font-family: "Plantagenet Cherokee";
     height: 100%;
@@ -222,14 +235,18 @@ left: 0 !important;
 }
 
 .work_page_stack_3 > .content_alpha > .title {
-    font-size: 100px;
-    height: 200px;
-    margin: 300px 0px 0px 0px;
+    font-size: 50pt;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin: 400px 0px 0px 0px;
 }
 
 .work_page_stack_3 > .content_alpha > .subtitle {
     line-height: 50%;
-    font-size: 20px;
-    margin: 0px 0px 0px 0px;
+    font-size: 10pt;
+    margin: 550px 0px 0px 0px;
     letter-spacing: 10px;
 }

@@ -18,22 +18,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/common/js/script.js">
+      <file leaf-file-name="company.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/company.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="229">
+              <caret line="197" column="23" lean-forward="false" selection-start-line="197" selection-start-column="23" selection-end-line="197" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="company.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/company.html">
+      <file leaf-file-name="careers.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/careers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="203" column="30" lean-forward="true" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="703">
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <marker date="1493079292000" expanded="true" signature="5818:5823" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/assets/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -51,27 +53,10 @@
       <file leaf-file-name="company.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/common/css/company.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="370" column="31" lean-forward="true" selection-start-line="370" selection-start-column="31" selection-end-line="370" selection-end-column="31" />
+            <state relative-caret-position="7030">
+              <caret line="370" column="31" lean-forward="false" selection-start-line="370" selection-start-column="31" selection-end-line="370" selection-end-column="31" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/common/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sub_0_2_06.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/common/img/contect/sub_0_2_06.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -85,8 +70,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="background.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/common/img/company/background.jpg">
+      <file leaf-file-name="Background.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/common/img/company/Background.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -149,6 +134,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,8 +242,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,6 +354,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ddea94aa-ac05-4c36-903d-fb370650b03b" name="Default" comment="" />
@@ -384,11 +372,12 @@
       <workItem from="1492388495486" duration="19142000" />
       <workItem from="1492474568386" duration="2051000" />
       <workItem from="1492482997772" duration="2585000" />
+      <workItem from="1493082303304" duration="5303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66604000" />
+    <option name="totallyTimeSpent" value="71907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -423,20 +412,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/common/img/contect/sub_0_2_06.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/lib/jquery/jquery-3.2.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/company/background.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/common/img/company/Background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -446,16 +422,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/common/css/style-backup.css" />
-    <entry file="file://$PROJECT_DIR$/assets/common/img/contect/sub_0_2_06.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/img/contect/sub_0_2_06.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/lib/jquery/jquery-3.2.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -464,7 +435,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/company/background.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/common/img/company/Background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -481,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,13 +463,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/career/허쌈.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/img/career/허쌈.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/common/img/company/Ailu.png" />
-    <entry file="file://$PROJECT_DIR$/assets/common/img/company/background.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/common/img/company/Background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -520,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -532,13 +497,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/career/허쌈.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/img/career/허쌈.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/common/img/company/Ailu.png" />
-    <entry file="file://$PROJECT_DIR$/assets/common/img/company/background.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/common/img/company/Background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -560,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,16 +532,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/career/지원쌤.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/career/광연쌤.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/img/career/지원쌤.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/common/img/career/광연쌤.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/common/img/company/Ailu.png" />
     <entry file="file://$PROJECT_DIR$/assets/common/img/company/bustalk1.png" />
     <entry file="file://$PROJECT_DIR$/assets/common/img/company/bustalk2.png" />
@@ -591,20 +543,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/company/background.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/common/img/company/Background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/contect/sub_0_2_06.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/img/contect/sub_0_2_06.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/lib/jquery/jquery-3.2.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -621,24 +568,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/img/career/허쌈.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/img/career/허쌈.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/common/css/style-backup.css" />
     <entry file="file://$PROJECT_DIR$/assets/common/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/common/css/company.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="370" column="31" lean-forward="true" selection-start-line="370" selection-start-column="31" selection-end-line="370" selection-end-column="31" />
+        <state relative-caret-position="7030">
+          <caret line="370" column="31" lean-forward="false" selection-start-line="370" selection-start-column="31" selection-end-line="370" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -646,16 +588,34 @@
     <entry file="file://$PROJECT_DIR$/assets/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/company.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="203" column="30" lean-forward="true" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="30" />
+        <state relative-caret-position="229">
+          <caret line="197" column="23" lean-forward="false" selection-start-line="197" selection-start-column="23" selection-end-line="197" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/Homepage-master (2)/HomiPage/assets/common/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/careers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <marker date="1493079292000" expanded="true" signature="5818:5823" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
